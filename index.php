@@ -1,5 +1,5 @@
 <?php
 
-    echo "Deus seja Louvado!";
+    echo "Deus seja sempre louvado!";
     
 ?>
